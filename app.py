@@ -73,7 +73,7 @@ def login_page():
     col_l, col_c, col_r = st.columns([1, 1.5, 1])
     with col_c:
         st.markdown("<br><br>", unsafe_allow_html=True)
-        st.image("https://placehold.co/300x80/4f8ef7/white?text=🐾+PetsLife", use_container_width=True)
+        st.markdown("<h1 style='text-align:center; color:#4f8ef7;'>🐾 PetsLife</h1>", unsafe_allow_html=True)
         st.markdown("<br>", unsafe_allow_html=True)
         st.subheader("管理システム ログイン")
 
