@@ -12,8 +12,22 @@
 - **ログイン情報（デモ用）**:
   - 管理者: `admin` / `petlife2026`（在庫更新可）
   - スタッフ: `staff` / `staff2026`（閲覧のみ）
-<!-- スクリーンショットは後で docs/ に追加してここに挿入 -->
- 
+<!-- スクリーンショット -->
+## スクリーンショット
+
+### ログイン画面
+<img width="1896" height="898" alt="streamlit-01-login" src="https://github.com/user-attachments/assets/0e76e1de-2ad2-43ef-bcd3-84ff2334df07" />
+
+
+### 📦 在庫ダッシュボード
+<img width="1893" height="900" alt="streamlit-02-dashboard" src="https://github.com/user-attachments/assets/43219b63-5ab3-4e7b-963b-81746f5e8dee" />
+
+### 📊 分析グラフ
+<img width="1886" height="898" alt="streamlit-03-charts" src="https://github.com/user-attachments/assets/3a61b60f-2bc6-4529-bf04-d7805094afa2" />
+
+
+### ✏️ 在庫更新（管理者のみ）
+<img width="1891" height="889" alt="streamlit-04-update" src="https://github.com/user-attachments/assets/aa455832-85b5-459b-93fc-5f59a5ad9041" />
 ---
  
 ## 概要
